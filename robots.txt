@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://reference-tid5t3.trans88.biz/sitemap.xml
